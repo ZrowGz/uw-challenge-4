@@ -1,0 +1,16 @@
+ 1010  git push -u origin main
+ 1011  git pull
+ 1012  git pull origin/main
+ 1013  git push -u origin main
+ 1014  git status
+ 1015  git push origin master
+ 1016  git status
+ 1017  git push origin main
+ 1018  git branch
+ 1019  git branch -m master main
+ 1020  git push -u origin main
+ 1021  git remote set-head origin main
+ 1022  git status
+ 1023  git branch
+ 1024  git push -u origin main
+ 1025  git status
