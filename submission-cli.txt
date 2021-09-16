@@ -1,0 +1,273 @@
+  757  git init -b main
+  758  git status
+  759  git add .
+  760  git commit -m "First Commit"
+  761  git remote add origin https://github.com/zrowgz/uw-challenge-4.git
+  762  git remote add origin https://github.com/ZrowGz/uw-challenge-4.git
+  763  origin https://github.com/ZrowGz/uw-challenge-4.git
+  764  git remote -v
+  765  git push -u origin main
+  766  git remote add origin git@github.com:ZrowGz/uw-challenge-4.git
+  767  git remote -v
+  768  git remote set-url origin git@github.com:ZrowGz/uw-challenge-4.git
+  769  git remote -v
+  770  git status
+  771  git push
+  772  git repo create uw-challenge-4
+  773  git init -b main
+  774  gh repo uw-challenge-4
+  775  git status
+  776  ls
+  777  git add .
+  778  git commit -m "First Commit"
+  779  git push -u origin main
+  780  git remote add origin git@github.com:ZrowGz/uw-challenge-4.git
+  781  git remote -v
+  782  git push -u origin main
+  783  git push -u origin main
+  784  echo "# uw-challenge-4" >> README.md
+  785  git init
+  786  git commit -m "First Commit"
+  787  git add .
+  788  git commit -m "First Commit"
+  789  git branch -M main
+  790  git remote add origin git@github.com:ZrowGz/uw-challenge-4.git
+  791  git push -u origin main
+  792  git pull
+  793  git pull --rebase
+  794  ls
+  795  git status
+  796  git push -u origin main
+  797  git pull
+  798  ls
+  799  git push -u origin main
+  800  git status
+  801  git commit -a -m "First Commit"
+  802  git pull --set-upstream origin main
+  803  git pull --merge
+  804  git add . && git commit -m "Initial Commit" && git push
+  805  ls
+  806  git --version
+  807  git init
+  808  git add *.c
+  809  git add LICENSE
+  810  git status
+  811  git remote add origin git@github.com:ZrowGz/uw-challenge-4.git
+  812  git push -u origin master
+  813  cd Desktop/fintech-workspace/w4/uw-challenge-4
+  814  cd Desktop/fintech-workspace/w4/uw-challenge-4
+  815  script -r initialcommit-cli.txt
+  816  git init -b main
+  817  git add .
+  818  git commit -m "First Commit"
+  819  ls
+  820  git remote add origin git@github.com:ZrowGz/uw-challenge-4.git
+  821  git remote -v
+  822  git push -u origin main
+  823  git push --help
+  824  jupyter lab
+  825  ls
+  826  cd Desktop
+  827  cd fintech-workspace
+  828  cd w3
+  829  cd uw-challenge-3
+  830  jupyter lab
+  831  cd
+  832  pwd
+  833  jupyter lab
+  834  jupyter lab
+  835  jupyter lab
+  836  cd Desktop/fintech-workspace/w4/uw-challenge-4
+  837  git q
+  838  git quit
+  839  git rm .git
+  840  ls
+  841  git init
+  842  git status
+  843  script initialcommit-cli.txt
+  844  git init
+  845  git status
+  846  git commit -a
+  847  git add .
+  848  git status
+  849  git commit -m "Initial Commit"
+  850  git status
+  851  git pull
+  852  git status
+  853  ls
+  854  git commit -a -m "Initial Commit"
+  855  git push
+  856  git push --set-upstream origin main
+  857  script end
+  858  cd Desktop/fintech-workspace/w4/uw-challenge-4
+  859  git q
+  860  git quit
+  861  git rm .git
+  862  ls
+  863  git init
+  864  git status
+  865  script initialcommit-cli.txt
+  866  git init
+  867  git status
+  868  git commit -a
+  869  git add .
+  870  git status
+  871  git commit -m "Initial Commit"
+  872  git status
+  873  git pull
+  874  git status
+  875  ls
+  876  git commit -a -m "Initial Commit"
+  877  git push
+  878  git push --set-upstream origin main
+  879  script end
+  880  git commit -a -m "Initial Commit"
+  881  git push
+  882  git push --set-upstream origin main
+  883  git push --merge
+  884  git push -f
+  885  git push --force
+  886  git push -u origin main
+  887  git clone --bare git@github.com:ZrowGz/uw-challenge-4.git
+  888  git status
+  889  git commit -a -m "Commit for push"
+  890  git add .
+  891  git commit -a -m "Commit for push"
+  892  git push
+  893  git push --set-upstream origin main
+  894  jupyter lab
+  895  ls
+  896  cd Documents
+  897  ls
+  898  ls
+  899  ls -a
+  900  cd Codign
+  901  cd Coding
+  902  ls
+  903  cd consensys
+  904  mkdir address-generator
+  905  cd address-generator
+  906  git clone https://github.com/ConsenSys-Academy/ethereum-address-generator-js.git
+  907  cd ..
+  908  cd
+  909  cd Documents
+  910  cd Coding/consensys/ethereum-address-generator-js
+  911  ls
+  912  cd Desktop/fintech-workspace/w4/uw-challenge-4
+  913  git status
+  914  git init
+  915  git init -b main
+  916  git commit -m "First commit"
+  917  git add .
+  918  git commit -m "First Commit"
+  919  git remote add origin git@github.com:ZrowGz/uw-challenge-4.git
+  920  git remote -v
+  921  git push -u origin main
+  922  git pull
+  923  git pull origin/main
+  924  git push -u origin main
+  925  git status
+  926  git push origin master
+  927  git status
+  928  git push origin main
+  929  git branch
+  930  git branch -m master main
+  931  git push -u origin main
+  932  git remote set-head origin main
+  933  git status
+  934  git branch
+  935  git push -u origin main
+  936  git status
+  937  history > initialrepo-cli.txt
+  938  git fetch origin
+  939  git pull .
+  940  git pull -rebase
+  941  git pull --rebase
+  942  git branch --set-upstream-to=origin/<branch> main
+  943  git branch --set-upstream-to=origin/main
+  944  ls
+  945  git pull --merge
+  946  git fetch --all
+  947  ls
+  948  git reset --hard origin/master
+  949  git pull origin master
+  950  git pull origin main
+  951  git pull origin main --allow-unrelated-histories
+  952  git status
+  953  git commit -m "Initial Commit"
+  954  git status
+  955  git add .
+  956  git commit -m "Initial Commit"
+  957  git push origin main
+  958  cd Documents
+  959  ls
+  960  cd Coding/consensys/ethereum-address-generator-js
+  961  ls
+  962  npm -v
+  963  cd
+  964  brew tap ethereum/ethereum
+  965  brew install ethereum
+  966  geth --ropsten --syncmode "light"
+  967  geth console
+  968  geth attach ~/.ethereum/geth.ipc
+  969  geth attach ~/.ethereum/ropsten/geth.ipc
+  970  geth attach ~/ethereum/ropsten/geth.ipc
+  971  geth attach /Users/zrowgz/Library/Ethereum/ropsten/geth.ipc
+  972  geth console
+  973  conda list
+  974  conda --help
+  975  conda create
+  976  conda create --name brownie
+  977  conda activate brownie
+  978  -m pip install --user pipx
+  979  python3 -m pip install --user pipx
+  980  python3 -m pipx ensurepath
+  981  conda deactivate
+  982  cd Desktop/fintech-workspace
+  983  ls
+  984  cd w5
+  985  ls
+  986  cd c1
+  987  ls
+  988  cd 04-Stu_API_Requests
+  989  ls
+  990  cd Unsolved
+  991  ls
+  992  pwd
+  993  conda activate dev
+  994  conda list
+  995  conda install -c anaconda scipy
+  996  cd
+  997  conda deactivate
+  998  cd Desktop/fintech-workspace
+  999  ls
+ 1000  git init
+ 1001  cd Desktop/fintech-workspace
+ 1002  git init
+ 1003  git clone https://github.com/zcor/uw_fintech_21.git
+ 1004  ls
+ 1005  cd ..
+ 1006  cd .. 
+ 1007  cd
+ 1008  cd Desktop/fintech-workspace/w4
+ 1009  ls
+ 1010  cd uw-challenge-4
+ 1011  ls
+ 1012  git status
+ 1013  git add .
+ 1014  git status
+ 1015  git commit -m "First half complete."
+ 1016  git remote -v
+ 1017  git push
+ 1018  git status
+ 1019  git add .
+ 1020  git commit -m "Restored missing portions."
+ 1021  git push
+ 1022  git add .
+ 1023  git commit -m "Completion of analysis."
+ 1024  git push
+ 1025  git add .
+ 1026  git commit -m "Update README"
+ 1027  git push
+ 1028  history 50 > submission-cli.txt
+ 1029  history 756 > submission-cli.txt
